@@ -1,0 +1,52 @@
+body> div{
+    text-align: center;
+    color: rgb(110, 125, 16);
+    background-image: url("Train.jpg");
+    background-size: cover;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    width: 600px;
+    padding: 10px 20px 20px 20px;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 50px;
+    
+}
+
+h1{
+    margin: 5px, 0 5PX 0;
+    font-size: 40px;
+}
+
+h2{
+    margin: 10px, 0 10PX 0; 
+    font-size: 30px;
+}
+
+button{
+    display: block;
+    margin: 10px auto;
+    padding: 5px 16px;
+    border: 1px solid black;
+    border-radius: 7px;
+    font-size: 20px;
+    color: white;
+    font-weight: bold;
+}
+
+#increment-btn{
+    background-color: darkred;
+}
+
+#save-btn{
+    background-color: darkblue;
+    padding: 5px 50px
+}
+
+#save-el{
+    display: block;
+    background-color: darkred;
+    color: white;
+    margin-right: auto;
+    margin-left: auto;
+    font-style: bold;
+}
